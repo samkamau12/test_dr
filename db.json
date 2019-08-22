@@ -23,6 +23,18 @@
       "body_es": "ES segundo cuerpo",
       "corporate_subject": ["AFRICAN UNION - AU","AFRICAN UNION MISSION IN SOMALIA – AMISOM"     
       ]
+    },
+     {
+      "id": "3",
+      "media_guid":"gli3",
+      "title_en": "EN  Third title editedggggg",
+      "title_es": "ES Tercer titulo edited",
+      "summary_en": "EN Third summary ",
+      "summary_es": "ES tercer resumen",
+      "body_en": "EN third body",
+      "body_es": "ES tercer cuerpo",
+      "corporate_subject": ["AFRICAN UNION - AU","AFRICAN UNION MISSION IN SOMALIA – AMISOM"     
+      ]
     }
   ],
   "profile": {
