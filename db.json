@@ -2,7 +2,12 @@
   "videos": [
     {
       "id": 1,
-      "title": "hello"
+      "title_en": "EN first title",
+      "title_es": "ES primer titulo",
+      "summary_en": "EN first summary ",
+      "summary_es": "ES primer resumen"
+      "body_en": "EN first body",
+      "body_es": "ES primer cuerpo"
     }
   ],
   "profile": {
