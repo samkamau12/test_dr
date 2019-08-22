@@ -2,6 +2,7 @@
   "videos": [
     {
       "id": 1,
+      "media_guid":"gli1",
       "title_en": "EN first title edited",
       "title_es": "ES primer titulo edited",
       "summary_en": "EN first summary ",
